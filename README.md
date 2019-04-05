@@ -42,7 +42,11 @@ The following libraries have been isolated and partially encapsulated in view of
 ## Contributing
 Before contributing please read the [Contribution Guidelines](CONTRIBUTING.MD).
 
+## QMCPACK Interface
+This patched version of espresso will build a C/Fortran interface library, libpwinterface.so.  The header file is included in X.
 
+## Building the Interface
+1. Build instructions go here.  
 
 ## LICENSE
 
